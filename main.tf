@@ -11,7 +11,7 @@ provider "aws" {
 terraform {
 
   cloud {
-    organization = "class6solomon"
+    organization = "class6solomon2"
 
     workspaces {
       name = "learn-terraform-github-actions"
